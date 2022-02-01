@@ -1,22 +1,22 @@
-# Name
+## Name
 Themed webpage or portal with Materialize CSS
 
-# Description
+##  Description
 This is a few part project done with Materialize as part of a CSS Materialize course.
 
-# Requirement
+##  Requirement
 You can play the project with a web browser of choice. You will need the internet.
 
-# Roadmap
+##  Roadmap
 Not announced
 
-# Project Status
+##  Project Status
 Closed
 
-# Contribution
+##  Contribution
 Not open for anymore contributions
 
-# Authors & Acknowledgement
+##  Authors & Acknowledgement
 Brad the trainer, TM, Josh Lim for making this avaliable 
 
 
