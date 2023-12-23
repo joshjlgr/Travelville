@@ -1,3 +1,5 @@
+![image](https://static.thehoneycombers.com/wp-content/uploads/sites/2/2022/10/kris-plus-travel-hacks-singapore.jpg)
+
 ##  Description
 This is a few part project done with Materialize as part of a CSS Materialize course.
 
