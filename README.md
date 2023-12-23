@@ -1,6 +1,3 @@
-## Name
-Themed webpage or portal with Materialize CSS
-
 ##  Description
 This is a few part project done with Materialize as part of a CSS Materialize course.
 
@@ -15,10 +12,6 @@ Closed
 
 ##  Contribution
 Not open for anymore contributions
-
-##  Authors & Acknowledgement
-Brad the trainer, TM, Josh Lim for making this avaliable 
-
 
 
 
