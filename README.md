@@ -3,9 +3,6 @@
 ##  Description
 A travel guide website with Materialize CSS.
 
-##  Requirement
-You can play the project with a web browser of choice. You will need the internet.
-
 ##  Roadmap
 Not announced
 
